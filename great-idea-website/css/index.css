@@ -1,0 +1,313 @@
+nav {
+	vertical-align: text-top;
+
+	}
+
+.aServices{
+	font-size: 12pt;
+	    font-family: 'Titillium Web', sans-serif;
+	position: absolute;
+	top:60px; 
+	left:300px;
+	color: grey;
+}
+.aProduct{
+	font-size: 12pt;
+	    font-family: 'Titillium Web', sans-serif;position: absolute;
+	top:60px; 
+	left:420px;
+	color: grey;
+}
+.aVision{
+	font-size: 12pt;
+	    font-family: 'Titillium Web', sans-serif;position: absolute;
+	top:60px; 
+	left:540px;
+	color: grey;
+}
+.aFeatures{
+	font-size: 12pt;
+	    font-family: 'Titillium Web', sans-serif;position: absolute;
+	top:60px; 
+	left:660px;
+	color: grey;
+}
+.aAbout{
+	font-size: 12pt;
+	    font-family: 'Titillium Web', sans-serif;position: absolute;
+	top:60px; 
+	left:780px;
+	color: grey;
+}
+.aContact{font-size: 12pt;
+	    font-family: 'Titillium Web', sans-serif;
+	    position: absolute;
+	top:60px; 
+	left:900px;
+	color: grey;
+}
+
+.logo{
+		position: absolute;
+	left: 1000px;
+	right: 1000px;
+	bottom:200px;
+	top:40px;
+	height:50px; 
+	width:150px;
+}
+.headerimg{
+	position: absolute;
+	left: 800px;
+	right: 1000px;
+	bottom:200px;
+	top:130px;
+	height:350px; 
+	width:350px;
+}
+.middle-img{
+		position: absolute;
+ 	 top:700px;
+ 	left:300px;
+ 	height: 300px;
+ 	width: 900px;
+}
+
+.Innovation{
+	font-family: 'Bangers', cursive;
+	font-size: 60pt;
+ 	align-content: center;
+  	position: absolute;
+ 	 top:60px;
+ 	left:400px;
+}
+.On{
+	font-family: 'Bangers', cursive;
+	
+	font-size: 60pt;
+ 	align-content: center;
+  	position: absolute;
+ 	 top:130px;
+ 	left:500px;
+}
+.Demand{
+	font-family: 'Bangers', cursive;
+	
+	font-size: 60pt;
+ 	align-content: center;
+  	position: absolute;
+ 	 top:200px;
+ 	left:430px;
+}
+
+
+.gs{
+	font-size: 18pt;
+	    font-family: 'Titillium Web', sans-serif;
+
+position: absolute;
+text-align: center;
+ width:150px; 
+ height:35px;
+ top:380px;
+ left:450px;
+border:1px; border-style:solid; border-color:#black; display: inline-block; padding: .5em;
+padding: 5px;
+}
+
+
+.Features{
+	font-family: 'Bangers', cursive;
+	font-size: 16pt;
+	color: black;
+	position: absolute;
+	top:550px;
+ 	left:300px;
+}
+
+.p1{
+font-size: 11pt;
+	    font-family: 'Titillium Web', sans-serif;
+
+position: absolute;
+text-align: left;
+ width:400px; 
+ height:20px;
+ top:580px;
+ left:300px;
+}
+
+.bAbout{
+	font-family: 'Bangers', cursive;
+	font-size: 16pt;
+	color: black;
+	position: absolute;
+	top:568px;
+ 	left:800px;
+}
+.p2{
+	font-size: 11pt;
+	    font-family: 'Titillium Web', sans-serif;
+	    position: absolute;
+text-align: left;
+ width:400px; 
+ height:20px;
+ top:580px;
+ left:800px;
+
+}
+
+.bServices{
+font-family: 'Bangers', cursive;
+	font-size: 16pt;
+	color: black;
+	position: absolute;
+	top:1000px;
+ 	left:300px;
+}
+.p3{
+	font-size: 11pt;
+	    font-family: 'Titillium Web', sans-serif;
+
+position: absolute;
+text-align: left;
+ width:250px; 
+ height:20px;
+ top:1030px;
+ left:300px;
+
+}
+.bProduct{
+	font-family: 'Bangers', cursive;
+	font-size: 16pt;
+	color: black;
+	position: absolute;
+	top:1000px;
+ 	left:650px;
+
+}
+
+.p4{font-size: 11pt;
+	    font-family: 'Titillium Web', sans-serif;
+
+position: absolute;
+text-align: left;
+ width:250px; 
+ height:20px;
+ top:1030px;
+ left:650px;
+
+}
+
+.bVision{
+	font-family: 'Bangers', cursive;
+	font-size: 16pt;
+	color: black;
+	position: absolute;
+	top:1000px;
+ 	left:980px;
+
+}
+.p5{font-size: 11pt;
+	    font-family: 'Titillium Web', sans-serif;
+
+position: absolute;
+text-align: left;
+ width:235px; 
+ height:20px;
+ top:1030px;
+ left:980px;
+
+}
+.bContact{
+	font-family: 'Bangers', cursive;
+	font-size: 16pt;
+	color: black;
+	position: absolute;
+	top:1300px;
+ 	left:300px;
+
+}
+.p6{font-size: 11pt;
+	    font-family: 'Titillium Web', sans-serif;
+
+position: absolute;
+text-align: left;
+ width:250px; 
+ height:20px;
+ top:1340px;
+ left:300px;
+}
+
+
+.p7{font-size: 11pt;
+	    font-family: 'Titillium Web', sans-serif;
+
+position: absolute;
+text-align: left;
+ width:250px; 
+ height:20px;
+ top:1360px;
+ left:300px;}
+.p8{font-size: 11pt;
+	    font-family: 'Titillium Web', sans-serif;
+
+position: absolute;
+text-align: left;
+ width:250px; 
+ height:20px;
+ top:1390px;
+ left:300px;}
+.p9{font-size: 11pt;
+	    font-family: 'Titillium Web', sans-serif;
+
+position: absolute;
+text-align: left;
+ width:250px; 
+ height:20px;
+ top:1420px;
+ left:300px;}
+
+
+
+footer{
+font-size: 10pt;
+	    font-family: 'Titillium Web', sans-serif;
+
+position: absolute;
+text-align: center;
+ width:200px; 
+ height:30px;
+ top:1460px;
+ left:650px;
+}
+
+.line1{
+	
+position: absolute;
+	display: block;
+	left:300px;
+	top:500px;
+	width: 900px;
+    
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+.line2{
+	
+position: absolute;
+	display: block;
+	left:300px;
+	top:1250px;
+	width: 900px;
+    
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
+
+
+
+
